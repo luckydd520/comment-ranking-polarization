@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+data/
+outputs/paper_reproduction_results.csv
+outputs/quick_results.csv
+outputs/data_manifest.csv

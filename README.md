@@ -1,6 +1,6 @@
-﻿# Comment Ranking Intervention Simulation for Social Media Opinion Polarization
+﻿# Comment-Ranking Interventions and Opinion Polarization
 
-This repository contains the experimental source code for the study *Design and Simulation of Comment Ranking Interventions for Social Media Opinion Polarization*.
+This repository contains the Python code and supporting files used in the study "Comment-ranking interventions mitigate opinion polarization: A multi-agent simulation study."
 
 The code implements an agent-based simulation framework for evaluating how comment ranking mechanisms influence opinion polarization in social media discussions. It uses real-world comment streams, separates hot-ranked and time-ranked comment orders, applies ranking interventions, and generates the main experimental summary tables.
 
